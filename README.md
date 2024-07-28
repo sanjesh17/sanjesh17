@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Sanjesh
 
 <p align="center">
-  <img src="https://your-profile-image-url.com" alt="Profile Image" width="200" height="200" style="border-radius:50%;">
+  <img src="https://drive.google.com/file/d/1rRB9j8Wrq8IQjfydTaZ4W3Mq0DiFXbMm/view?usp=sharing" alt="Profile Image" width="200" height="200" style="border-radius:50%;">
 </p>
 
 ## 🎓 About Me
