@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Sanjesh  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c71b5bbf-c509-43bf-9a44-9067cce10379" alt="Profile Image" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/338b4e6f-52f6-49af-abab-847feedd6515" alt="Profile Image" width="200" height="200" style="border-radius: 50%">
 </p>
 
 ## 🎓 About Me  
